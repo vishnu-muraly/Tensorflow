@@ -1,0 +1,7 @@
+site_name: Practical deep learning with Tensorflow 2.0
+nav:
+    #- Home: index.md
+    - 1. Preface : about.md
+    - 2. Why deep learning with TF 2.0 ? : datasets.md
+    - 3. Reading data : dataread.md
+theme: readthedocs
